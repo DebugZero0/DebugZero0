@@ -1,12 +1,14 @@
 ![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Ankan Nandi</h1>
 <h3 align="center">A passionate coder and a developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <h3>💫About Me:<br></h3>
 
-- 🌱 I’m currently learning **Web Dev**
+- 🔭 I’m currently working on Developing Skills
 
 - 📫 How to reach me **ankannew2024@gmail.com**
+
+- 💬 Ask me about Data structures or Webdev
 
 - ⚡ Fun fact **AI is just a tool**
 
@@ -28,7 +30,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debugzero0&theme=dark&show_icons=true&locale=en" alt="debugzero0" /></p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=DebugZero0&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DebugZero0&theme=dark&hide_border=false)<br/> 
+<hr>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DebugZero0/DebugZero0/output/github-snake-dark.svg" />
