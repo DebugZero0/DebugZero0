@@ -1,7 +1,7 @@
 ![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Ankan Nandi</h1>
 <h3 align="center">A passionate coder and a developer from India</h3>
-<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <h3>💫About Me:<br></h3>
 
 - 🔭 I’m currently working on Developing Skills
