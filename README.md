@@ -37,6 +37,12 @@ I'm a student persuing Btech in CS major
 
 <hr>
 
+## 📈 Profile Statistics
+
+<a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=DebugZero0&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true" /></a>
+
+<a href="https://github.com/DebugZero0"><img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=DebugZero0&color=red&style=for-the-badge"></a>
+<hr>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DebugZero0/DebugZero0/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DebugZero0/DebugZero0/output/github-snake.svg" />
