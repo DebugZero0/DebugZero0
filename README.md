@@ -70,7 +70,7 @@ I'm a student persuing Btech in CS major
 [license-url]: https://github.com/DebugZero0/DebugZero0/blob/main/LICENSE
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin
-[linkedin-url]: https://www.linkedin.com/in/https://www.linkedin.com/in/ankan-nandi-57417a31a/
+[linkedin-url]: https://www.linkedin.com/in/ankan-nandi-57417a31a/
 
 
 <a href="https://github.com/DebugZero0"><img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=DebugZero0&style=flat-square&color=blue" /></a>
