@@ -33,14 +33,14 @@ I'm a student persuing Btech in CS major
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Welcome+to+Ankan's+GitHub!;Check+out+my+stats+below..." alt="Typing SVG" />
 </p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DebugZero0&layout=compact&theme=github_dark&hide_border=true)](https://github.com/DebugZero0)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DebugZero0&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debugzero0&theme=dark&show_icons=true&locale=en" alt="debugzero0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debugzero0&theme=github_dark&hide_border=true&show_icons=true&locale=en" alt="debugzero0" /></p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=DebugZero0&theme=dark&hide_border=false)<br/>  
+![](https://nirzak-streak-stats.vercel.app/?user=DebugZero0&theme=tokyonight&hide_border=false)<br/>  
 
-![](https://github-contributor-stats.vercel.app/api?username=DebugZero0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=DebugZero0&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 <hr>
 
