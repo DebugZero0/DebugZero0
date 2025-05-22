@@ -43,7 +43,7 @@ I'm a student persuing Btech in CS major
 </p> -->
 
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=debugzero0&theme=github_dark&hide_border=false&show_icons=true&locale=en" alt="debugzero0" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=debugzero0&theme=github_dark&hide_border=true&show_icons=true&locale=en" alt="debugzero0" /></p>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=DebugZero0&theme=tokyonight&hide_border=false)<br/>  
 
