@@ -79,6 +79,12 @@ I'm a student persuing Btech in CS major
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DebugZero0&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DebugZero0&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DebugZero0&show_icons=true&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=DebugZero0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </picture>
+
 <!--
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=debugzero0&theme=github_dark&hide_border=false&show_icons=true&locale=en" alt="debugzero0"/>
@@ -86,19 +92,22 @@ I'm a student persuing Btech in CS major
   <img align="left"src="https://github-contributor-stats.vercel.app/api?username=DebugZero0&limit=5&theme=synthwave&combine_all_yearly_contributions=true"/>
 </p> -->
 
-
+<!--
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=debugzero0&theme=github_dark&hide_border=true&show_icons=true&locale=en" alt="debugzero0" /></p>
+-->
+![](https://nirzak-streak-stats.vercel.app/?user=DebugZero0&theme=merko&hide_border=true)<br/>  
 
-![](https://nirzak-streak-stats.vercel.app/?user=DebugZero0&theme=tokyonight&hide_border=false)<br/>  
+![](https://github-contributor-stats.vercel.app/api?username=DebugZero0&limit=5&theme=github_dark&bg_color=000000&radius=16&text_color=0496FF&hide_border=true&combine_all_yearly_contributions=true)
 
-![](https://github-contributor-stats.vercel.app/api?username=DebugZero0&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+
+
 
 
 <hr>
 
 ## 📈 Profile Statistics
 
-<a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=DebugZero0&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true" /></a>
+<a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=DebugZero0&theme=github-compact&text_color=0496FF&custom_title=My%20GitHub%20Contribution%20Graph&radius=20&hide_border=true&area=true&bg_color=000000" /></a>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
