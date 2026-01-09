@@ -77,25 +77,14 @@ I'm a student persuing Btech in CS major
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Welcome+to+Ankan's+GitHub!;Check+out+my+stats+below..." alt="Typing SVG" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DebugZero0&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Ankan's GitHub stats](https://github-readme-stats-x1t9.vercel.app/api?username=DebugZero0&show_icons=true&theme=merko&hide_border=true)
 
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DebugZero0&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DebugZero0&show_icons=true&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=DebugZero0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </picture>
+![Top Langs](https://github-readme-stats-x1t9.vercel.app/api/top-langs/?username=DebugZero0&layout=compact&theme=merko)
 
-<!--
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=debugzero0&theme=github_dark&hide_border=false&show_icons=true&locale=en" alt="debugzero0"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DebugZero0&theme=tokyonight&hide_border=false"/>
-  <img align="left"src="https://github-contributor-stats.vercel.app/api?username=DebugZero0&limit=5&theme=synthwave&combine_all_yearly_contributions=true"/>
-</p> -->
+![GitHub Streak](https://streak-stats.demolab.com?user=DebugZero0&theme=merko)
 
-<!--
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=debugzero0&theme=github_dark&hide_border=true&show_icons=true&locale=en" alt="debugzero0" /></p>
--->
-![](https://nirzak-streak-stats.vercel.app/?user=DebugZero0&theme=merko&hide_border=true)<br/>  
+
+
 
 ![](https://github-contributor-stats.vercel.app/api?username=DebugZero0&limit=5&theme=github_dark&bg_color=000000&radius=16&text_color=0496FF&hide_border=true&combine_all_yearly_contributions=true)
 
@@ -134,6 +123,8 @@ I'm a student persuing Btech in CS major
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/ankan-nandi-57417a31a/
 
+![GitHub followers](https://img.shields.io/github/followers/DebugZero0?style=social)
+![GitHub contributions](https://img.shields.io/github/commit-activity/m/DebugZero0?style=flat-square&color=blue)
 
 <a href="https://github.com/DebugZero0"><img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=DebugZero0&style=flat-square&color=blue" /></a>
 
@@ -143,3 +134,19 @@ I'm a student persuing Btech in CS major
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DebugZero0/DebugZero0/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/DebugZero0/DebugZero0/output/github-snake.svg" />
 </picture>
+
+
+### 💡 Daily Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=dev" alt="Daily Quote" width="400"/>
+</p>
+
+
+### ⚡ Tech I Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,scss,tailwind,bootstrap,react,nextjs,vite,nodejs,express,mongodb,mysql,postgres,firebase,git,github,githubactions,docker,kubernetes,linux,bash,vscode,idea,postman,figma,vercel,netlify,threejs&theme=dark&perline=20" />
+</p>
+
+
+
+
